@@ -1,0 +1,6 @@
+npm install -g hexo-cli，安装 Hexo
+hexo init myBlog
+cd myBlog
+npm i
+hexo new 开博大吉
+start D:/testgit/myBlog/source/_posts/开博大吉.md
